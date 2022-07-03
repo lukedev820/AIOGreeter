@@ -2,7 +2,7 @@
 *Your All-In-One-Greeter that gives you an acurate welcome, weather info and a todo list all from your terminal.*
 <br><br>
 <p align="center">  
-  <img width="772" src="https://github.com/lukedev820/AIOGreeter/blob/main/example.png">
+  <img width="772" src="https://github.com/lukedev820/AIOGreeter/blob/master/example.png">
 </p>
 <br>
 
